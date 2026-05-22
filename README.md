@@ -48,13 +48,13 @@ questions_web.xml
 questions_xml.xml
 ```
 
-🎯 Objectives
+🎯 Objectives:
 To provide an online platform for student assessment
 To improve technical knowledge through quizzes
 To make learning interactive and engaging
 To evaluate student performance efficiently
 
-💡 Future Enhancements
+💡 Future Enhancements:
 AI-based performance analysis
 Timer-based quizzes
 Admin dashboard
@@ -62,7 +62,7 @@ Database integration
 Certificate generation
 Mobile responsive improvements
 
-▶️ How to Run the Project
+▶️ How to Run the Project:
 Download or clone the repository
 Open the project folder in Visual Studio Code
 Run the project using XAMPP/WAMP server for PHP support
