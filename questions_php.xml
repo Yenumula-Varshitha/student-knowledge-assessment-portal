@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<quiz> 
+<question><text>What does PHP stand for?</text> 
+<option correct="true">Hypertext Preprocessor</option> 
+<option correct="false">Personal Home Page</option> 
+<option correct="false">Public HTML Processor</option></question> 
+ 
+<question><text>Which symbol starts a PHP variable?</text> 
+<option correct="true">$</option> 
+<option correct="false">#</option> 
+<option correct="false">@</option></question> 
+ 
+<question><text>Which tag is used to start PHP code?</text> 
+<option correct="true">&lt;?php</option> 
+<option correct="false">&lt;php&gt;</option> 
+<option correct="false">&lt;script php&gt;</option></question> 
+ 
+<question><text>Which function outputs text in PHP?</text> 
+<option correct="true">echo</option> 
+<option correct="false">print_text()</option> 
+<option correct="false">output()</option></question> 
+ 
+<question><text>Which function connects PHP to MySQL?</text> 
+<option correct="true">mysqli_connect()</option> 
+<option correct="false">mysql_open()</option> 
+<option correct="false">db_connect()</option></question> 
+ 
+<question><text>Which superglobal holds form POST data?</text> 
+<option correct="true">$_POST</option> 
+<option correct="false">$_FORM</option> 
+<option correct="false">$_DATA</option></question> 
+ 
+<question><text>Which superglobal holds URL query parameters?</text> 
+<option correct="true">$_GET</option> 
+<option correct="false">$_URL</option> 
+<option correct="false">$_QUERY</option></question> 
+ 
+<question><text>Which function gets the length of a string in PHP?</text> 
+<option correct="true">strlen()</option> 
+<option correct="false">length()</option> 
+<option correct="false">strcount()</option></question> 
+ 
+<question><text>Which PHP function checks if a variable is set?</text> 
+<option correct="true">isset()</option> 
+<option correct="false">isvar()</option> 
+<option correct="false">defined()</option></question> 
+ 
+<question><text>What is the correct way to create an array in PHP?</text> 
+<option correct="true">$arr = array();</option> 
+<option correct="false">$arr = []();</option> 
+<option correct="false">array $arr = new;</option></question> 
+ 
+<question><text>Which PHP function sorts an array in ascending order?</text> 
+<option correct="true">sort()</option> 
+<option correct="false">asort()</option> 
+<option correct="false">arrange()</option></question> 
+ 
+<question><text>Which PHP function is used to include another file?</text> 
+<option correct="true">include()</option> 
+<option correct="false">import()</option> 
+<option correct="false">use()</option></question> 
+ 
+<question><text>What does mysqli_num_rows() return?</text> 
+<option correct="true">Number of rows in a result set</option> 
+<option correct="false">Number of columns</option> 
+<option correct="false">Size of the table</option></question> 
+ 
+<question><text>Which PHP function prevents SQL injection?</text> 
+<option correct="true">mysqli_real_escape_string()</option> 
+<option correct="false">htmlspecialchars()</option> 
+<option correct="false">strip_tags()</option></question> 
+ 
+<question><text>Which PHP function redirects to another page?</text> 
+<option correct="true">header("Location: page.php")</option> 
+<option correct="false">redirect("page.php")</option> 
+<option correct="false">goto("page.php")</option></question> 
+</quiz> 

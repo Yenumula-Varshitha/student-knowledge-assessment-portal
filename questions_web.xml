@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<quiz> 
+<question><text>What does HTML stand for?</text> 
+<option correct="true">HyperText Markup Language</option> 
+<option correct="false">High Transfer Markup Language</option> 
+<option correct="false">HyperText Management Language</option></question> 
+ 
+<question><text>What does CSS stand for?</text> 
+<option correct="true">Cascading Style Sheets</option> 
+<option correct="false">Computer Style Sheets</option> 
+<option correct="false">Creative Style System</option></question> 
+ 
+<question><text>JavaScript is used for?</text> 
+<option correct="true">Client-side scripting</option> 
+<option correct="false">Database management</option> 
+<option correct="false">Operating system tasks</option></question> 
+ 
+<question><text>Which tag is used for heading?</text> 
+<option correct="true">h1</option> 
+<option correct="false">p</option> 
+<option correct="false">div</option></question> 
+ 
+<question><text>Which tag is used for paragraph?</text> 
+<option correct="true">p</option> 
+<option correct="false">h1</option> 
+<option correct="false">span</option></question> 
+ 
+<question><text>Which CSS property changes text color?</text> 
+<option correct="true">color</option> 
+<option correct="false">background</option> 
+<option correct="false">font</option></question> 
+ 
+<question><text>Which symbol is used for CSS class selector?</text> 
+<option correct="true">.</option> 
+<option correct="false">#</option> 
+<option correct="false">*</option></question> 
+ 
+<question><text>Which symbol is used for CSS id selector?</text> 
+<option correct="true">#</option> 
+<option correct="false">.</option> 
+<option correct="false">@</option></question> 
+ 
+<question><text>Which keyword declares a variable in JavaScript?</text> 
+<option correct="true">var</option> 
+<option correct="false">int</option> 
+<option correct="false">float</option></question> 
+ 
+<question><text>Which method shows an alert box?</text> 
+<option correct="true">alert()</option> 
+<option correct="false">print()</option> 
+<option correct="false">msg()</option></question> 
+ 
+<question><text>PHP is used for?</text> 
+<option correct="true">Server-side scripting</option> 
+<option correct="false">Page design</option> 
+<option correct="false">Animation</option></question> 
+ 
+<question><text>Which symbol is used for PHP variables?</text> 
+<option correct="true">$</option> 
+<option correct="false">#</option> 
+<option correct="false">@</option></question> 
+ 
+<question><text>Which PHP function connects to MySQL?</text> 
+<option correct="true">mysqli_connect()</option> 
+<option correct="false">connect()</option> 
+<option correct="false">db_open()</option></question> 
+<question><text>Cookies are used for?</text> 
+<option correct="true">Storing user data in browser</option> 
+<option correct="false">Playing music</option> 
+<option correct="false">Drawing shapes</option></question> 
+ 
+<question><text>Which HTML tag is used for a table?</text> 
+<option correct="true">table</option> 
+<option correct="false">tr</option> 
+<option correct="false">td</option></question> 
+</quiz>

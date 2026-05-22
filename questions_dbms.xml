@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<quiz> 
+<question><text>What does DBMS stand for?</text> 
+<option correct="true">Database Management System</option> 
+<option correct="false">Data Backup Management Software</option> 
+<option correct="false">Digital Base Management System</option></question> 
+ 
+<question><text>Which language is used to query a database?</text> 
+<option correct="true">SQL</option> 
+<option correct="false">HTML</option> 
+<option correct="false">CSS</option></question> 
+ 
+<question><text>Which SQL command is used to retrieve data?</text> 
+<option correct="true">SELECT</option> 
+<option correct="false">INSERT</option> 
+<option correct="false">DELETE</option></question> 
+ 
+<question><text>Which SQL command adds new records?</text> 
+<option correct="true">INSERT INTO</option> 
+<option correct="false">ADD RECORD</option> 
+<option correct="false">APPEND</option></question> 
+ 
+<question><text>Which SQL command removes records?</text> 
+<option correct="true">DELETE</option> 
+<option correct="false">REMOVE</option> 
+<option correct="false">DROP</option></question> 
+ 
+<question><text>Which SQL command modifies existing records?</text> 
+<option correct="true">UPDATE</option> 
+<option correct="false">MODIFY</option> 
+<option correct="false">CHANGE</option></question> 
+ 
+<question><text>Which keyword filters rows in SQL?</text> 
+<option correct="true">WHERE</option> 
+<option correct="false">FILTER</option> 
+<option correct="false">HAVING</option></question> 
+ 
+<question><text>Which key uniquely identifies a record in a table?</text> 
+<option correct="true">Primary Key</option> 
+<option correct="false">Foreign Key</option> 
+<option correct="false">Candidate Key</option></question> 
+ 
+<question><text>Which key links two tables together?</text> 
+<option correct="true">Foreign Key</option> 
+<option correct="false">Primary Key</option> 
+<option correct="false">Super Key</option></question> 
+ 
+<question><text>Which SQL clause sorts the result set?</text> 
+<option correct="true">ORDER BY</option> 
+<option correct="false">SORT BY</option> 
+<option correct="false">GROUP BY</option></question> 
+ 
+<question><text>Which SQL clause groups rows with the same values?</text> 
+<option correct="true">GROUP BY</option> 
+<option correct="false">ORDER BY</option> 
+<option correct="false">WHERE</option></question> 
+ 
+<question><text>Which SQL function counts the number of rows?</text> 
+<option correct="true">COUNT()</option> 
+<option correct="false">SUM()</option> 
+<option correct="false">TOTAL()</option></question> 
+ 
+<question><text>What is a JOIN used for in SQL?</text> 
+<option correct="true">Combining rows from two or more tables</option> 
+<option correct="false">Deleting duplicate rows</option> 
+<option correct="false">Creating a new database</option></question> 
+ 
+<question><text>Which SQL command removes an entire table?</text> 
+<option correct="true">DROP TABLE</option> 
+<option correct="false">DELETE TABLE</option> 
+<option correct="false">REMOVE TABLE</option></question> 
+ 
+<question><text>What does NULL mean in a database?</text> 
+<option correct="true">No value / missing value</option> 
+<option correct="false">Zero</option> 
+<option correct="false">Empty string</option></question> 
+</quiz>

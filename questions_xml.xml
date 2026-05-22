@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz> 
+<question><text>What does XML stand for?</text> 
+<option correct="true">eXtensible Markup Language</option> 
+<option correct="false">Extra Modern Language</option> 
+<option correct="false">eXternal Markup Logic</option></question> 
+ 
+<question><text>What does DTD stand for?</text> 
+<option correct="true">Document Type Definition</option> 
+<option correct="false">Data Transfer Definition</option> 
+<option correct="false">Document Tag Descriptor</option></question> 
+ 
+<question><text>XML tags are case sensitive.</text> 
+<option correct="true">True</option> 
+<option correct="false">False</option> 
+<option correct="false">Only for root elements</option></question> 
+ 
+<question><text>What is the correct XML declaration?</text> 
+<option correct="true">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</option> 
+<option correct="false">&lt;!xml version="1.0"&gt;</option> 
+<option correct="false">&lt;xml encoding="UTF-8"&gt;</option></question> 
+ 
+<question><text>Which symbol starts an XML comment?</text> 
+<option correct="true">&lt;!--</option> 
+<option correct="false">//</option> 
+<option correct="false">#</option></question> 
+ 
+<question><text>What does an XML namespace prevent?</text> 
+<option correct="true">Name conflicts between elements</option> 
+<option correct="false">File size from growing</option> 
+<option correct="false">Errors in DTD validation</option></question> 
+ 
+<question><text>Which attribute defines an XML namespace?</text> 
+<option correct="true">xmlns</option> 
+<option correct="false">namespace</option> 
+<option correct="false">ns</option></question> 
+ 
+<question><text>Which DTD keyword defines an element?</text> 
+<option correct="true">!ELEMENT</option> 
+<option correct="false">!TAG</option> 
+<option correct="false">!NODE</option></question> 
+ 
+<question><text>What does #PCDATA mean in a DTD?</text> 
+<option correct="true">Parsed Character Data (text content)</option> 
+<option correct="false">Packed Compressed Data</option> 
+<option correct="false">Private Content Data</option></question> 
+ 
+<question><text>XML documents must have how many root elements?</text> 
+<option correct="true">Exactly one</option> 
+<option correct="false">At least two</option> 
+<option correct="false">As many as needed</option></question> 
+ 
+<question><text>Which of these is a well-formed XML rule?</text> 
+<option correct="true">All tags must be properly closed</option> 
+<option correct="false">Tags can overlap each other</option> 
+<option correct="false">Attribute values do not need quotes</option></question> 
+ 
+<question><text>Which DTD keyword defines an attribute?</text> 
+<option correct="true">!ATTLIST</option> 
+<option correct="false">!ATTR</option> 
+<option correct="false">!ATTRIBUTE</option></question> 
+ 
+<question><text>What is XPath used for?</text> 
+<option correct="true">Navigating elements in an XML document</option> 
+<option correct="false">Styling XML documents</option> 
+<option correct="false">Sending XML over a network</option></question> 
+ 
+<question><text>What is XSLT used for?</text> 
+<option correct="true">Transforming XML into other formats like HTML</option> 
+<option correct="false">Validating XML documents</option> 
+<option correct="false">Compressing XML files</option></question> 
+ 
+<question><text>Which file extension is used for XML files?</text> 
+<option correct="true">.xml</option> 
+<option correct="false">.xm</option> 
+<option correct="false">.mlx</option></question> 
+</quiz>
